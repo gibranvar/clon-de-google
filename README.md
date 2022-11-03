@@ -1,4 +1,4 @@
-# clon-de-google
+# GOOGLE CLONE
 
 ## Try it yourself!
 https://googlee-clon.netlify.app/
